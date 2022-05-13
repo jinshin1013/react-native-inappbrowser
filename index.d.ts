@@ -1,4 +1,4 @@
-declare module 'react-native-inappbrowser-reborn' {
+declare module '@jinshin1013/react-native-inappbrowser-reborn' {
   export interface RedirectEvent {
     url: 'string';
   }
